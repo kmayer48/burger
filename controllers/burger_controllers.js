@@ -1,7 +1,7 @@
 // This file sets up all of the routes for the application. MySQL queries are in here.
-var express = require('express');
+var express = require("express");
 var router = express.Router();
-var burger = require('../models/burger.js');
+var burger = require("../models/burger.js");
 
 //Grabs all of the data from the burgers table. These are sorted later with Handlebars #if and #unless statements
 router.get("/", function (req, res) {
