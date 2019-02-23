@@ -16,7 +16,7 @@
 
 #### Enter `node server.js` in either Terminal or Gitbash to intialize the server.
 
-![](https://github.com/kmayer48/friendfinder/blob/master/gifs/server1.gif)
+![](https://github.com/kmayer48/burger/blob/master/public/gifs/server1.gif)
 
 #### Enter `http://localhost:8080` into your web browser of choice. You will land on the burgers page.
 
