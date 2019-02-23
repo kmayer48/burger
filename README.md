@@ -2,7 +2,7 @@
 
 ## Eat Da Burger is a web application using Node.js, Express.js, Handlebars, and MySQL. The app lets users input the names of burgers they'd like to eat and then devour them! 
 
-### Check out the deployed version on [Heroku!]()
+### Check out the deployed version on [Heroku!](https://gentle-woodland-43928.herokuapp.com/)
 
 # Prerequisites
 
